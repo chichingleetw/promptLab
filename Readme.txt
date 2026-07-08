@@ -9,3 +9,5 @@ Prompt Lab 的核心目標，是讓學生從「會用 AI」進階到「會駕馭
 免費使用
 
 工具網址：https://air.cgu.edu.tw/workspace3/PromptLab/
+
+授權：本專案採用 MIT License 授權，詳見 LICENSE 檔案。

@@ -13,3 +13,7 @@ Prompt Lab 的核心目標，是讓學生從「會用 AI」進階到「會駕馭
 推薦給初學 AI 協作的使用者。
 
 [進入 Prompt Lab](https://air.cgu.edu.tw/workspace3/PromptLab/)
+
+## 授權
+
+本專案採用 MIT License 授權，詳見 [LICENSE](LICENSE)。
